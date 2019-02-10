@@ -1,6 +1,8 @@
 # ESP32-LED-Matrix-SPI-MQTT
 MQTT WiFi Display with ESP32 and MAX7219 LED Matrix
 
+I use this unit to display the occupancy status of the bath rooms. Presence detectors and light status are the inputs. A script sets the string to be displayed to the MQTT topic. In case of no presence the string is cleared. Delay from setting the string in MQTT to appearing at the display is 1-3 seconds.
+
 Power consumption of the whole unit (WiFi active, MQTT subscribed) is 0.7 Watts with empty display and 1.2 Watts with scrolling text and brightness set to 3 of 15 (which is bright enough for my usage). Measured with a 230V power meter and USB charger supplying the power to the unit.
 Powering the display with 5 Volts is very bright. I tried it and decided to use the 3.3 Volts.
 
@@ -13,7 +15,7 @@ Wall mounted:
 ![Pic3](pics/IMG_9765.JPG)
 ESP32 DevKitV1 removed for programming (it is only fixed by the MicroUSB connector):
 ![Pic4](pics/IMG_9764.JPG)
-Acrylic glass is 5x14.8cm and glued to the front case part. The display unit is fixed with TESA to the glass. Cutout from front case is 4x14cm.
+Acrylic glass is 5x14.8cm and glued (with superglue) to the front case part. The display unit is fixed with TESA to the glass. Cutout from front case is 4x14cm.
 ![Pic5](pics/IMG_9745.JPG)
 ![Pic6](pics/IMG_9746.JPG)
 ![Pic7](pics/IMG_9747.JPG)
