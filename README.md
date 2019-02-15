@@ -25,7 +25,7 @@ A lot of hot glue used. The car USB adapter is also attached with hot glue.
 ![Pic9](pics/IMG_9749.JPG)
 
 # Parts List
-- 8x32 RGB LED matrix module with MAX7219 (https://www.ebay.de/itm/Dot-Matrix-Modul-8x8-Display-Arduino-4-Matrix-MAX7219-Led-Lcd-Raspberry-Pi/253070191854)
+- 8x32 RGB LED matrix module with MAX7219 (https://www.makershop.de/display/led-matrix/dot-matrix-modul-8x8-max7219/)
 - ESP32 NodeMCU dev. board (https://www.pollin.de/p/joy-it-esp32-node-mcu-modul-810873)
 - 12V car USB converter (https://www.pollin.de/p/kfz-usb-lader-tabtools-5-v-2-1-a-351769)
 - 15cm MicroUSB cable (https://www.pollin.de/p/usb-2-0-kabel-usb-a-micro-usb-0-15-m-722505)
