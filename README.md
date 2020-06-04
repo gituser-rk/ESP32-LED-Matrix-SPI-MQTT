@@ -26,7 +26,7 @@ A bit of hot glue used. The car USB adapter and the 12V terminal is also attache
 
 # Parts List
 - 8x32 RGB LED matrix module with MAX7219 (https://www.makershop.de/display/led-matrix/dot-matrix-modul-8x8-max7219/)
-- ESP32 NodeMCU dev. board (https://www.pollin.de/p/joy-it-esp32-node-mcu-modul-810873)
+- ESP32 NodeMCU dev. board (https://www.makershop.de/plattformen/nodemcu/esp32-board-stiftleisten/)
 - 12V car USB converter (https://www.pollin.de/p/kfz-usb-lader-tabtools-5-v-2-1-a-351769)
 - 15cm MicroUSB cable (https://www.pollin.de/p/usb-2-0-kabel-usb-a-micro-usb-0-15-m-722505)
 - Case (https://www.pollin.de/p/modulgehaeuse-abs-158x90x40-mm-ip65-lichtgrau-460313)
