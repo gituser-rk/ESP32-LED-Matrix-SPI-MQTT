@@ -3,6 +3,8 @@ MQTT WiFi Display with ESP32 and MAX7219 LED Matrix
 
 I use this unit to display the occupancy status of the bath rooms. Presence detectors and light status are the inputs. A script sets the string to be displayed to the MQTT topic. In case of no presence the string is cleared. Delay from setting the string in MQTT to appearing at the display is 1-3 seconds.
 
+A startup message can be displayed until the bootup and reading of the MQTT topic is finished.
+
 Power consumption of the whole unit (WiFi active, MQTT subscribed) is 0.7 Watts with empty display and 1.2 Watts with scrolling text and brightness set to 3 of 15 (which is bright enough for my usage). Measured with a 230V power meter and USB charger supplying the power to the unit.
 Powering the display with 5 Volts is very bright. I tried it and decided to use the 3.3 Volts.
 
