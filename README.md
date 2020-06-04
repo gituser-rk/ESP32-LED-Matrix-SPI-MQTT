@@ -21,7 +21,7 @@ Acrylic glass is 5x14.8cm and glued (with superglue) to the front case part. The
 ![Pic7](pics/IMG_9747.JPG)
 The onboard 5V to 3.3V converter is used for display power supply (using the 3.3V "Input" of the DevBoard as output).
 ![Pic8](pics/IMG_9748.JPG)
-A bit of hot glue used. The car USB adapter is also attached with hot glue.
+A bit of hot glue used. The car USB adapter and the 12V terminal is also attached with hot glue.
 ![Pic9](pics/IMG_9749.JPG)
 
 # Parts List
