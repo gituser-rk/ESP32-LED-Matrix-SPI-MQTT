@@ -15,13 +15,13 @@ Wall mounted:
 ![Pic3](pics/IMG_9765.JPG)
 ESP32 DevKitV1 removed for programming (it is only fixed by the MicroUSB connector):
 ![Pic4](pics/IMG_9764.JPG)
-Acrylic glass is 5x14.8cm and glued (with superglue) to the front case part. The display unit is fixed with TESA to the glass. Cutout from front case is 4x14cm.
+Acrylic glass is 5x14.8cm and glued (with superglue) to the front case part. The display unit is fixed with TESA to the glass. Cutout in front case is 4x14cm.
 ![Pic5](pics/IMG_9745.JPG)
 ![Pic6](pics/IMG_9746.JPG)
 ![Pic7](pics/IMG_9747.JPG)
 The onboard 5V to 3.3V converter is used for display power supply (using the 3.3V "Input" of the DevBoard as output).
 ![Pic8](pics/IMG_9748.JPG)
-A lot of hot glue used. The car USB adapter is also attached with hot glue.
+A bit of hot glue used. The car USB adapter is also attached with hot glue.
 ![Pic9](pics/IMG_9749.JPG)
 
 # Parts List
